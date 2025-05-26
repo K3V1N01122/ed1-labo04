@@ -1,4 +1,4 @@
-package ed.lab.ed1labo04.controller;
+package ed.lab.ed1labo04.controller; //Kevin Palencia
 
 import ed.lab.ed1labo04.entity.ProductEntity;
 import ed.lab.ed1labo04.model.CreateProductRequest;

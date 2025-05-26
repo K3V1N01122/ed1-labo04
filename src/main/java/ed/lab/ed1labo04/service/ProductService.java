@@ -1,4 +1,4 @@
-package ed.lab.ed1labo04.service;
+package ed.lab.ed1labo04.service; //Kevin Palencia
 
 import ed.lab.ed1labo04.entity.ProductEntity;
 import ed.lab.ed1labo04.model.CreateProductRequest;

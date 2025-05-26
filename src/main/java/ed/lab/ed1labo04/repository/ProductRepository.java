@@ -1,4 +1,4 @@
-package ed.lab.ed1labo04.repository;
+package ed.lab.ed1labo04.repository; //Kevin Palencia
 
 import ed.lab.ed1labo04.entity.ProductEntity;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,4 +1,4 @@
-package ed.lab.ed1labo04.entity;
+package ed.lab.ed1labo04.entity; //Kevin Palencia
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

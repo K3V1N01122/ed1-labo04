@@ -1,4 +1,4 @@
-package ed.lab.ed1labo04.model;
+package ed.lab.ed1labo04.model; //Kevin Palencia
 
 public class CreateProductRequest {
 
